@@ -1,0 +1,21 @@
+{
+  "name": "Tax World",
+  "version": "1.0",
+  "description": "Official Application for Tax World 2014 event by UKM Tax & Technology - Sekolah Tinggi Perpajakan Indonesia -",
+  "launch_path": "/index.html",
+  "icons": {
+    "256": "/icon/256.png",
+    "128": "/icon/128.png",
+    "120": "/icon/120.png",
+    "90": "/icon/90.png",
+    "60": "/icon/60.png",
+    "32": "/icon/32.png"
+  },
+  "developer": {
+    "name": "Rizky Ariestiyansyah",
+     "url": "http://oonlab.com"
+  },
+  "orientation": ["portrait"],
+  "default_locale": "en",
+  "installs_allowed_from":["*"]
+}
